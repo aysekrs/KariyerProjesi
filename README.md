@@ -201,4 +201,3 @@ You can wire `CareerAdviceService` into a controller (e.g., `CareerAdviceControl
 
 Although this repository is designed as a **student project**, the structure and documentation are intentionally close to **real-world production practices**, making it a solid foundation for further development and learning.
 
-
